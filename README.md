@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hernandes Vinícius Martins do Amaral
 
 * **Desenvolvedor Frontend e Técnico em Informática**  
-* **Estudante de Sistemas de Informação** | UEMG  
+* **Estudante de Sistemas de Informação | UEMG** 
 * Atualmente explorando: **Machine Learning e Desenvolvimento Web**  
 
 ---
