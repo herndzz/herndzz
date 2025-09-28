@@ -26,7 +26,7 @@ const hernandes = {
     funFact: "Transformano cafeína em código e código em soluções"
 };
 ```
-<div align="center">
+<div align="left">
 
 ### 💻 Languages & Frameworks
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
@@ -45,18 +45,11 @@ const hernandes = {
 ### 🌐 Networking
 <a href="#"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" a>
 
-GitHub Analytics
+### GitHub Analytics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herndzz&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndzz&layout=compact&langs_count=8&theme=matrix"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndzz&theme=matrix&hide_border=false" />
-</div>
-
-
-
-Contribution Graph
-<div align="center">
-  <img src="https://github.com/herndzz/herndzz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
