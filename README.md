@@ -23,7 +23,7 @@ const hernandes = {
         networking: ["TCP/IP", "VPN", "Firewall", "Routing & Switching"]
     },
     currentFocus: "Explorando DevOps e Redes",
-    funFact: "Transformano cafeína em código e código em soluções"
+    funFact: "Transformando cafeína em código e código em soluções"
 };
 ```
 <div align="left">
